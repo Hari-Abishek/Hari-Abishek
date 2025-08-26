@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hari-Abishek
 - 👀 I’m interested in Embedded Software
-- 🌱 I’m currently learning Embedded
+- 🌱 Embedded Firmware Engineer
 - 💞️ I’m looking to collaborate on Embedded Software
 - 📫 How to reach me hariabisheksakthivel@gmail.com
 - 😄 Pronouns: Habi
